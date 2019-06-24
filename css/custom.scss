@@ -1,0 +1,36 @@
+a.profile-link {
+  > svg {
+    vertical-align: middle;
+  }
+  > span {
+    color: #fff;
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+    vertical-align: middle;
+  }
+}
+
+img.nb {
+  border: none !important;
+  background-color: transparent !important;
+}
+
+.side-icon {
+  > img {
+    vertical-align: middle;
+    height: 100px;
+    fill: #fff;
+  }
+  > span {
+    color: #fff;
+    font-size: 100px;
+    margin: 0;
+    padding: 0;
+    vertical-align: middle;
+  }
+}
+
+.w25 {
+  min-width: 25%;
+}
