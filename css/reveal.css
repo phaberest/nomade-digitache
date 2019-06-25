@@ -1442,6 +1442,9 @@ body {
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
 
+/**
+ * custom
+ */
 a.profile-link > svg {
   vertical-align: middle; }
 
@@ -1470,3 +1473,6 @@ img.nb {
 
 .w25 {
   min-width: 25%; }
+
+.slides {
+  max-width: 100vw; }
